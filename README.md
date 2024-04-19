@@ -1,18 +1,25 @@
 # aws-certified-security-specialty
 AWS Certified Security - Specialty (SCS-C02)
 
+
 ## References
+AWS Documents
+
 https://aws.amazon.com/ko/certification/certified-security-specialty/
 
+Udemy - Stephane Maarek
+
+https://udemy.com/course/ultimate-aws-certified-security-specialty/
+
 ---
-### Domain1 - Threat Detection and Incident Response
+### Domain 1 - Threat Detection and Incident Response
 - Guard Duty
 - Security Hub
 - Detective
 - EC2
 - IAM
 
-### Domain2 - Security Logging and Monitoring
+### Domain 2 - Security Logging and Monitoring
 - Inspector
 - Systems Manager
 - CloudWatch
@@ -25,7 +32,7 @@ https://aws.amazon.com/ko/certification/certified-security-specialty/
 - Route53
 - OpenSearch
 
-### Domain3 - Infrastructure Security
+### Domain 3 - Infrastructure Security
 - Bastion Server
 - VPN
 - VPC Peering
@@ -43,14 +50,14 @@ https://aws.amazon.com/ko/certification/certified-security-specialty/
 - Route53
 - SES
 
-### Domain4 - Identity and Access Management
+### Domain 4 - Identity and Access Management
 - IAM
 - EC2
 - S3
 - Cognito
 - Directory Services
 
-### Domain5 - Data Protection
+### Domain 5 - Data Protection
 - CloudHSM
 - KMS
 - EBS
@@ -62,7 +69,7 @@ https://aws.amazon.com/ko/certification/certified-security-specialty/
 - ACM
 - Backup
 
-### Domain6 - Management and Security Governance
+### Domain 6 - Management and Security Governance
 - Organizations
 - Control Tower
 - Config
