@@ -1,0 +1,11 @@
+# Domain 5 - Data Protection
+- CloudHSM
+- KMS
+- EBS
+- EFS
+- Systems Manager(Parameter Store)
+- Secrets Manager
+- S3
+- ELB
+- ACM
+- Backup

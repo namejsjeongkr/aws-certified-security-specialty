@@ -1,0 +1,12 @@
+# Other Services
+- Direct Connect
+- ECR
+- EKS
+- Lambda
+- Signer
+- Glue
+- CloudShell
+- RDS
+- EC2 Iamge Builder
+- Redshift
+- DynamoDB
