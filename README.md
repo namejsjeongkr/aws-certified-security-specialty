@@ -3,11 +3,22 @@ AWS Certified Security - Specialty (SCS-C02)
 
 
 ## References
-AWS Documents
+#### AWS Documents
 
 https://aws.amazon.com/ko/certification/certified-security-specialty/
 
-Udemy - Stephane Maarek
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/15233/aws-certified-security-specialty-official-practice-question-set-scs-c02-korean
+
+https://aws.amazon.com/ko/training/learn-about/security/#Browse_individual_on-demand_AWS_courses
+
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/18291/exam-prep-standard-course-aws-certified-security-specialty-scs-c02-english
+
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/18292/exam-prep-enhanced-course-aws-certified-security-specialty-scs-c02-english
+
+https://explore.skillbuilder.aws/learn/course/external/view/elearning/15719/aws-certified-security-specialty-official-practice-exam-scs-c02-english
+
+---
+#### Udemy - Stephane Maarek
 
 https://udemy.com/course/ultimate-aws-certified-security-specialty/
 
