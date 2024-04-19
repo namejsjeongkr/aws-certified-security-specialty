@@ -2,9 +2,7 @@
 AWS Certified Security - Specialty (SCS-C02)
 
 ### References
-```
 https://aws.amazon.com/ko/certification/certified-security-specialty/
-```
 
 ## Domain1 - Threat Detection and Incident Response
 
