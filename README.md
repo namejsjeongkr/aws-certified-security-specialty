@@ -24,7 +24,7 @@ AWS Certified Security - Specialty (SCS-C02)
 
 ---
 ### Domain 1 - Threat Detection and Incident Response
-- Guard Duty
+- GuardDuty
 - Security Hub
 - Detective
 - EC2
